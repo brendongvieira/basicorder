@@ -1,0 +1,14 @@
+C:\Users\brendon.vieira\Documents\Projetos C#\BasicOrder\BasicOrder\obj\Debug\net7.0\BasicOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brendon.vieira\Documents\Projetos C#\BasicOrder\BasicOrder\obj\Debug\net7.0\BasicOrder.AssemblyInfoInputs.cache
+C:\Users\brendon.vieira\Documents\Projetos C#\BasicOrder\BasicOrder\obj\Debug\net7.0\BasicOrder.AssemblyInfo.cs
+C:\Users\brendon.vieira\Documents\Projetos C#\BasicOrder\BasicOrder\obj\Debug\net7.0\BasicOrder.csproj.CoreCompileInputs.cache
+C:\Users\brendon.vieira\Documents\Projetos C#\BasicOrder\BasicOrder\bin\Debug\net7.0\BasicOrder.exe
+C:\Users\brendon.vieira\Documents\Projetos C#\BasicOrder\BasicOrder\bin\Debug\net7.0\BasicOrder.deps.json
+C:\Users\brendon.vieira\Documents\Projetos C#\BasicOrder\BasicOrder\bin\Debug\net7.0\BasicOrder.runtimeconfig.json
+C:\Users\brendon.vieira\Documents\Projetos C#\BasicOrder\BasicOrder\bin\Debug\net7.0\BasicOrder.dll
+C:\Users\brendon.vieira\Documents\Projetos C#\BasicOrder\BasicOrder\bin\Debug\net7.0\BasicOrder.pdb
+C:\Users\brendon.vieira\Documents\Projetos C#\BasicOrder\BasicOrder\obj\Debug\net7.0\BasicOrder.dll
+C:\Users\brendon.vieira\Documents\Projetos C#\BasicOrder\BasicOrder\obj\Debug\net7.0\refint\BasicOrder.dll
+C:\Users\brendon.vieira\Documents\Projetos C#\BasicOrder\BasicOrder\obj\Debug\net7.0\BasicOrder.pdb
+C:\Users\brendon.vieira\Documents\Projetos C#\BasicOrder\BasicOrder\obj\Debug\net7.0\BasicOrder.genruntimeconfig.cache
+C:\Users\brendon.vieira\Documents\Projetos C#\BasicOrder\BasicOrder\obj\Debug\net7.0\ref\BasicOrder.dll
